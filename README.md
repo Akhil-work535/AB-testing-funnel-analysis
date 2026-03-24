@@ -72,7 +72,7 @@ Built an interactive Power BI dashboard including:
 This project demonstrates how A/B testing and funnel analysis can be used to support data-driven decision making in real-world scenarios.
 
 ---
-## Author 
-V.Akhil
-
-[linkedin:http://www.linkedin.com/in/vankayalapati-akhil]
+## 👤 Author
+Akhil  
+Aspiring Data Analyst  
+🔗 [LinkedIn](http://www.linkedin.com/in/vankayalapati-akhil)
